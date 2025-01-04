@@ -1,0 +1,36 @@
+body {
+    background: url('images/nature.avif') no-repeat;
+    display:block;
+    background-size: cover;
+}
+
+h1{
+    padding-bottom: 50px;
+    color: indigo;
+    
+}
+h2{
+    font-size: x-large;
+    color: black;
+}
+
+p {
+    font-size: x-large;
+    color:black;
+    line-height: 2cm;
+    text-align: center;
+    }
+
+h3{
+    font-size: x-large;
+    color: black; 
+}
+
+h4{
+    font-size: x-large;
+    color: black; 
+}
+
+form{
+    text-align: center;  
+}
